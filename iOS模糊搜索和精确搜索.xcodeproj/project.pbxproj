@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					1828E59E1DF6A3100017E4F2 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = HBCEGWE998;
 						ProvisioningStyle = Automatic;
 					};
 					1828E5B71DF6A31C0017E4F2 = {
@@ -424,7 +425,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = HBCEGWE998;
 				INFOPLIST_FILE = "iOS模糊搜索和精确搜索/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dfbe.iOS---------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -435,7 +438,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = HBCEGWE998;
 				INFOPLIST_FILE = "iOS模糊搜索和精确搜索/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dfbe.iOS---------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -507,6 +512,7 @@
 				1828E5CE1DF6A31D0017E4F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1828E5CF1DF6A31D0017E4F2 /* Build configuration list for PBXNativeTarget "iOS模糊搜索和精确搜索Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +521,7 @@
 				1828E5D11DF6A31D0017E4F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1828E5D21DF6A31D0017E4F2 /* Build configuration list for PBXNativeTarget "iOS模糊搜索和精确搜索UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +530,7 @@
 				1828E5D41DF6A31D0017E4F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
